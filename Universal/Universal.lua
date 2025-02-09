@@ -16,7 +16,6 @@ local Window = Fluent:CreateWindow({
 
 local tabs = {
     CETab = Window:AddTab({ Title = "Carbon Engine (CE)", Icon = "" }),
-    ACSTab = Window:AddTab({ Title = "ACS", Icon = ""})
 }
 
 do -- Carbon Engine
